@@ -13,7 +13,7 @@ db.sqlite3
 .banana
 .env
 .venv
-env/
+env
 venv/
 ENV/
 
